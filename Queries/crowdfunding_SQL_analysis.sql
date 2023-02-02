@@ -1,3 +1,12 @@
+SELECT * FROM backers
+LIMIT 10;
+
+
+
+
+
+
+
 -- Challenge Bonus queries.
 -- 1. (2.5 pts)
 -- Retrieve all the number of backer_counts in descending order for each `cf_id` for the "live" campaigns. 
